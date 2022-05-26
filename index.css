@@ -1,7 +1,13 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
 .bg {
     /* The image used */
     background-image: url("Untitled.png");
   
+    width: 50%;
     /* Full height */
     height: 50%; 
   
